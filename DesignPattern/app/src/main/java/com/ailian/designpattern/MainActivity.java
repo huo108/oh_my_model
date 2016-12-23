@@ -1,4 +1,4 @@
-package com.ailian.pattern.designpattern;
+package com.ailian.designpattern;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
