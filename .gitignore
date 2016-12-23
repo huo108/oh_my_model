@@ -36,5 +36,14 @@ captures/
 *.iml
 .idea/workspace.xml
 
-# Keystore files
-*.jks
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.idea
+/MyDaoGenerator/build
+*.iml
+*/build
+*.apk
+/0db/
