@@ -7,3 +7,7 @@
    抽象工厂模式定义如下：
 
         抽象工厂模式(Abstract Factory Pattern)：提供一个创建一系列相关或相互依赖对象的接口，而无须指定它们具体的类。抽象工厂模式又称为Kit模式，它是一种对象创建型模式。
+
+在抽象工厂模式中，每一个具体工厂都提供了多个工厂方法用于产生多种不同类型的产品，这些产品构成了一个产品族，抽象工厂模式结构如图所示：
+
+![](https://github.com/huo108/oh_my_model/tree/master/screenshot/abstractfactory.jpeg)
