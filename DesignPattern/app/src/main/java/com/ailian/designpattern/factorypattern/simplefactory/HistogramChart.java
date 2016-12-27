@@ -1,4 +1,4 @@
-package com.ailian.designpattern.simplefactory;
+package com.ailian.designpattern.factorypattern.simplefactory;
 
 /**
  * 柱状图

@@ -1,4 +1,4 @@
-package com.ailian.designpattern.simplefactory;
+package com.ailian.designpattern.factorypattern.simplefactory;
 
 /**
  * Created by Ailian on 16/12/26.
