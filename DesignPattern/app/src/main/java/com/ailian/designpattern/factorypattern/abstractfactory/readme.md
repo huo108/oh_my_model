@@ -10,4 +10,4 @@
 
 在抽象工厂模式中，每一个具体工厂都提供了多个工厂方法用于产生多种不同类型的产品，这些产品构成了一个产品族，抽象工厂模式结构如图所示：
 
-![](https://github.com/huo108/oh_my_model/tree/master/screenshot/abstractfactory.jpeg)
+![](https://github.com/huo108/oh_my_model/blob/master/screenshot/abstractfactory.jpeg)
