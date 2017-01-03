@@ -25,10 +25,9 @@ public abstract class BaseXml<T> {
     public abstract T getXmlNodeResult(String nodeName);
 
     protected void getXml(){
-        DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
-        DocumentBuilder builder = null;
         try {
-            builder = dFactory.newDocumentBuilder();
+            DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
+            DocumentBuilder builder = dFactory.newDocumentBuilder();
             doc = builder.parse(new File("config.xml"));
         } catch (Exception e) {
             e.printStackTrace();

@@ -4,4 +4,5 @@
     <loggerFactory>com.ailian.designpattern.factorypattern.factoryMethod.FileLoggerFactory</loggerFactory>
     <chartNode>line</chartNode>
     <abstractFactory>com.ailian.designpattern.factorypattern.abstractfactory.factory.RedFactory</abstractFactory>
+    <actorBuilder>com.ailian.designpattern.builderpattern.DevilBuilder</actorBuilder>
 </config>
