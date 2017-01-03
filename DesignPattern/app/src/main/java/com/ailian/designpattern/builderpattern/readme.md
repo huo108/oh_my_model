@@ -3,7 +3,7 @@
 
     将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。建造者模式是一种对象创建型模式。
 
-![]()
+![](https://github.com/huo108/oh_my_model/blob/master/screenshot/builder.gif)
 
 在建造者模式结构图中包含如下几个角色：
 
