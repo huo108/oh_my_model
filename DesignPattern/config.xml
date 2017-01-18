@@ -5,4 +5,7 @@
     <chartNode>line</chartNode>
     <abstractFactory>com.ailian.designpattern.factorypattern.abstractfactory.factory.RedFactory</abstractFactory>
     <actorBuilder>com.ailian.designpattern.builderpattern.DevilBuilder</actorBuilder>
+    <adapterNode>com.ailian.designpattern.adapterpattern.OperationAdapter</adapterNode>
+    <imageNode>com.ailian.designpattern.bridgepattern.PngImage</imageNode>
+    <systemNode>com.ailian.designpattern.bridgepattern.WindowSystem</systemNode>
 </config>
